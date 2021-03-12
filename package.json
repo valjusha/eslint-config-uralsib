@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-uralsib",
+  "version": "1.0.0",
+  "description": "Общая конфигурация для проектов классной команды Уралсиб банка",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "prettier",
+    "uralsib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valjusha/eslint-config-uralsib.git"
+  },
+  "author": "Voznuyk V.V.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valjusha/eslint-config-uralsib/issues"
+  },
+  "homepage": "https://github.com/valjusha/eslint-config-uralsib#readme"
+}
