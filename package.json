@@ -3,24 +3,11 @@
   "version": "1.0.0",
   "description": "Общая конфигурация для проектов классной команды Уралсиб банка",
   "main": "index.js",
-  "keywords": [
-    "style guide",
-    "eslint",
-    "prettier",
-    "uralsib",
-    "es6",
-    "es2015",
-    "es2016",
-    "es2017",
-    "es2018",
-    "react",
-    "jsx",
-    "tsx"
-  ],
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint --fix"
   },
+  "keywords": ["eslint", "prettier", "uralsib"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/valjusha/eslint-config-uralsib.git"
